@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-jr4l3m.ai4wm.com/sitemap.xml
